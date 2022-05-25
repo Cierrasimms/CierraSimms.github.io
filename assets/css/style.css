@@ -738,8 +738,8 @@ section .container {
   width: 48px;
   height: 48px;
   position: absolute;
-  top: 35px;
-  left: 35px;
+  top: 0%;
+  left: 0%;
   border-top: 3px solid #fff;
   border-left: 3px solid #fff;
   transition: all 0.5s ease 0s;
@@ -751,8 +751,8 @@ section .container {
   width: 48px;
   height: 48px;
   position: absolute;
-  bottom: 35px;
-  right: 35px;
+  bottom: 0%;
+  right: 0%;
   border-bottom: 3px solid #fff;
   border-right: 3px solid #fff;
   transition: all 0.5s ease 0s;
