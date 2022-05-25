@@ -26,6 +26,10 @@ body::before {
   height: 100vh;
   z-index: -1;
 }
+.video {
+  margin: 0
+  padding: 0
+}
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
@@ -791,12 +795,12 @@ section .container {
   opacity: 1;
 }
 .portfolio .portfolio-wrap:hover .portfolio-info::before {
-  top: 15px;
-  left: 15px;
+  top: 0%;
+  left: 0%;
 }
 .portfolio .portfolio-wrap:hover .portfolio-info::after {
-  bottom: 15px;
-  right: 15px;
+  bottom: 0%;
+  right: 0%;
 }
 
 /*--------------------------------------------------------------
