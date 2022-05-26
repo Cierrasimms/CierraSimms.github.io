@@ -415,7 +415,7 @@ section .container {
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
-..skill{
+.skill{
   font-family: "Raleway", sans-serif;
 	background-color: #151f20;
 }
